@@ -23,7 +23,14 @@ This model is then compared to an Azure AutoML run.
 ## Pipeline comparison
 **Compare the two models and their performance. What are the differences in accuracy? In architecture? If there was a difference, why do you think there was one?**
 
+![image-20201127142210074](/Users/emanuelebuchicchio/Optimizing_a_Pipeline_in_AzureML/auto_ml_experiment.png)
+
+![sk learn experiment](/Users/emanuelebuchicchio/Optimizing_a_Pipeline_in_AzureML/sklearn_experiment.png)
+
+![image-20201127143545952](/Users/emanuelebuchicchio/Library/Application Support/typora-user-images/image-20201127143545952.png)
+
 ## Future work
+
 **What are some areas of improvement for future experiments? Why might these improvements help the model?**
 
 ## Proof of cluster clean up
